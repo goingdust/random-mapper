@@ -2,4 +2,4 @@
 // import { Company } from './Company';
 import { CustomMap } from './CustomMap';
 
-const customMap = new CustomMap();
+const customMap = new CustomMap('map');
